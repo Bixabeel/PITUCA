@@ -222,7 +222,7 @@ function StorySection() {
               {[
                 { number: '55+', label: 'Años de tradición' },
                 { number: '9+', label: 'Sabores clásicos' },
-                { number: '100+', label: 'de galletas compartidas' },
+                { number: '100M+', label: 'de galletas compartidas' },
               ].map((stat, i) => (
                 <div
                   key={i}
