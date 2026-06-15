@@ -163,8 +163,8 @@ export default function Productos() {
         <div className="relative z-10 w-full max-w-[800px] mx-auto px-6 text-center">
           <div className="reveal">
             <p className="font-['Playfair_Display'] text-[1.4rem] md:text-[1.6rem] text-[#5A2D0C] italic leading-[1.8]">
-              "No vendemos galletas, acompañamos tus momentos. Cada paquete que se abre 
-              es una invitación a sentarse, a compartir, a conversar"
+              "No solo hacemos galletas... también acompañamos los momentos dulces de tu vida. Porque cada paquete que se abre 
+              es una invitación a sentarse, a compartir, a disfrutar"
             </p>
           </div>
         </div>

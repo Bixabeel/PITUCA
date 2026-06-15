@@ -200,10 +200,10 @@ function StorySection() {
               Lo que comenzó como una receta familiar en una pequeña cocina costarricense 
               se convirtió en el sabor que ha acompañado a tres generaciones enteras. 
               Cada galleta Pituca lleva consigo la memoria de tardes compartidas, 
-              café chorreado y conversaciones que no tienen prisa.
+              café chorreado y conversaciones que marcan la memoria.
             </p>
             <p className="text-white/90 text-[1.05rem] leading-[1.95] mb-10 max-w-[620px] drop-shadow-[0_2px_10px_rgba(0,0,0,0.45)]">
-              No solo son galletas. Son el pretexto perfecto para volver a casa, 
+              No solo son galletas, son el pretexto perfecto para volver a casa, 
               para sentarse a la mesa, para recordar que lo bueno no necesita prisa.
             </p>
             <div className="flex flex-wrap gap-4">
@@ -221,8 +221,8 @@ function StorySection() {
             <div className="grid grid-cols-3 gap-4">
               {[
                 { number: '55+', label: 'Años de tradición' },
-                { number: '3', label: 'Generaciones' },
-                { number: '9', label: 'Sabores clásicos' },
+                { number: '9+', label: 'Sabores clásicos' },
+                { number: '100+', label: 'de galletas compartidas' },
               ].map((stat, i) => (
                 <div
                   key={i}

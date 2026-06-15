@@ -49,7 +49,7 @@ export default function Footer() {
             <p className="text-white/75 leading-8 max-w-md">
               Más de cinco décadas acompañando los momentos que
               realmente importan. Tradición costarricense horneada
-              con cariño generación tras generación.
+              con cariño generación tras generación
             </p>
           </div>
 
@@ -79,7 +79,7 @@ export default function Footer() {
 
             <p className="text-white/75 leading-8">
               Mantener vivo el sabor que ha acompañado a las familias
-              costarricenses durante más de medio siglo.
+              costarricenses durante más de medio siglo
             </p>
           </div>
 
@@ -88,7 +88,7 @@ export default function Footer() {
         <div className="border-t border-white/10 mt-14 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
 
           <p className="text-white/50 text-sm">
-            © {year} Galletas Pituca. Todos los derechos reservados.
+            © {year} Galletas Pituca. Todos los derechos reservados
           </p>
 
           <p className="flex items-center gap-2 text-white/50 text-sm">
